@@ -67,7 +67,7 @@ La base `medical_app` contient les principales tables suivantes :
 
 1. **Cloner le dépôt :**
 
-git clone https://votre-repo-url.git
+git clone https://github.com/Abdouramanebichara/medecin_app.git
 cd medical_app
 
 
@@ -135,8 +135,8 @@ cd medical_app
 
 Pour toute question ou contribution, merci de contacter :
 
-- **Nom** : [Votre nom]  
-- **Email** : [votre.email@example.com]  
+- **Nom** : ABDOURAMANE BICHARA 23I00403 GI2 FI1 
+- **Email** : abdouramanebichara@gmail.com  
 - **Projet** : Application Web de Gestion des Rendez-vous Médicaux
 
 ---
