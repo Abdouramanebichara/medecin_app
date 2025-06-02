@@ -1,4 +1,5 @@
 <?php
+require_once 'config.php';
 session_start();
 
 // Si l'utilisateur est déjà connecté avec un rôle défini, rediriger selon son rôle
